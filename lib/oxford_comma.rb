@@ -1,3 +1,7 @@
-def oxford_comma(array_to_string)
-  return array_to_string.join
+def oxford_comma(array)
+  if array.length == 1
+    return array.join
+  elsif array.length == 2
+    return array == 2
+    return array.join(" and")
 end
