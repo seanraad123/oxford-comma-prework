@@ -1,8 +1,3 @@
-
-array = ["fiddleheads","okra","kohlrabi"]
-
-def oxford_comma(array)
-  print array.join(", ")
+def oxford_comma(array_to_string)
+  return array_to_string.join
 end
-
-oxford_comma(array)
