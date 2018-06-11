@@ -10,8 +10,3 @@ def oxford_comma(array)
     array.join(", ")
   end
 end
-
-
-array = ["kiwi", "durian", "starfruit"]
-
-oxford_comma(array)
