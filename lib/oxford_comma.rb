@@ -10,3 +10,7 @@ def oxford_comma(array)
     end
   end
 end
+
+
+array = ["kiwi", "durian", "starfruit"]
+oxford
