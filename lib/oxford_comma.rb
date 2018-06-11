@@ -13,4 +13,4 @@ end
 
 
 array = ["kiwi", "durian", "starfruit"]
-oxford
+oxford_comma(array)
